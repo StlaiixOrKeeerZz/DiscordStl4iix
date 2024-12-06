@@ -1,0 +1,9 @@
+name: DiscordStl4iix
+author: Stl4iix
+api: 5.0.0
+version: 1.0.0
+main: Phoenix\Main
+
+permissions:
+  cmd.discord:
+    default: true

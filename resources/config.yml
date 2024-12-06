@@ -1,0 +1,10 @@
+#FICHIER DE CONFIGURATION POUR LE PLUGIN DISCORD.
+
+load-msg: "Le plugin est entrain de charger"
+enable-msg: "Le plugin vient de charger avec succès."
+disable-message: "Le plugin vient de s'arrêter."
+
+discord-msg: "Voici le lien du discord: discord.gg/xxxxxxxx"
+command-description: "Permet d'avoir le lien du serveur discord"
+
+not-permission: "§cTu n'as pas la permission d'utiliser cette commande !"
